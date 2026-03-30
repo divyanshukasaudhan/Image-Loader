@@ -1,0 +1,3 @@
+from UIManager import start_app
+
+start_app()
